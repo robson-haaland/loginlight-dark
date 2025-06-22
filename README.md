@@ -11,8 +11,34 @@
 <li><strong>Efeitos de Hover:</strong> Efeitos interativos ao passar o mouse sobre botões e ícones de redes sociais.</li>
 <li><strong>Estilização Personalizada:</strong> Usa variáveis CSS para cores e a fonte Poppins para um visual moderno.</li>
 
+# Estrutura do Projeto
+
+DarkLightForm/
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── script.js
+│   ├── imgs/
+│   │   ├── facebook.png
+│   │   ├── google.png
+│   │   └── github.png
+├── index.html
+└── README.md
 
 
+# Tecnologias Utilizadas
+
+<li><strong>HTML : </strong>Estrutura do formulário de login.</li>
+<li><strong>CSS : </strong>Estilização com variáveis CSS, flexbox e fundos gradientes, animações com @keyframes, variáveis CSS e estilização dinâmica.</li>
+<li><strong>JavaScript : </strong> Lógica para alternar temas e ícones.</li>
+<li><strong>Font Awesome : </strong>Para ícones (lua, usuário, envelope, chave).</li>
+<li><strong>Google Fonts : </strong>Fonte Poppins para tipografia.</li>
+<br>
+
+# 👥 Créditos
+Este projeto foi criado por Robson, com o apoio e orientação de Larissa Kich.
+Feito com dedicação, estudo e aquela vontade de aprender cada vez mais! 🚀
 
 # Projeto
 
