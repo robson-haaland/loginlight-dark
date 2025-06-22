@@ -11,20 +11,7 @@
 <li><strong>Efeitos de Hover:</strong> Efeitos interativos ao passar o mouse sobre botões e ícones de redes sociais.</li>
 <li><strong>Estilização Personalizada:</strong> Usa variáveis CSS para cores e a fonte Poppins para um visual moderno.</li>
 
-# Estrutura do Projeto
-
-DarkLightForm/
-├── assets/
-│   ├── css/
-│   │   └── style.css
-│   ├── js/
-│   │   └── script.js
-│   ├── imgs/
-│   │   ├── facebook.png
-│   │   ├── google.png
-│   │   └── github.png
-├── index.html
-└── README.md
+<br>
 
 
 # Tecnologias Utilizadas
